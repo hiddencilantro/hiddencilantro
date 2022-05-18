@@ -1,4 +1,5 @@
-![HIDDENCILANTRO_LINKEDIN_BANNER2](https://user-images.githubusercontent.com/30536045/168948104-27357b92-5aa4-4c81-a208-5dc5874a66f8.png)
+![hiddencilantro_banner](https://user-images.githubusercontent.com/30536045/168957376-c38bfbbf-f8d0-428b-bf88-cdbce9583f89.png)
+
 <!--
 [![hiddencilantro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddencilantro)](https://github.com/hiddencilantro/github-readme-stats)
 -->
