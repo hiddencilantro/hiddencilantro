@@ -3,7 +3,7 @@
 [![hiddencilantro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddencilantro)](https://github.com/hiddencilantro/github-readme-stats)
 -->
 
-I'm a full-stack web developer based in NYC hoping to build amazing web applications that can change lives and shed positive influence on society and others. This account logs my entire journey of becoming a web developer starting with various lessons and labs during my time at Flatiron School as well as any other personal projects I have built along the way. Take a peek at my pinned repos below for some of my best work.
+I'm a full-stack web developer based in NYC hoping to build amazing web applications that can change lives and cast positive influence on society and others. This account logs my entire journey of becoming a web developer starting with various lessons and labs during my time at Flatiron School as well as any other personal projects I have built along the way. Take a peek at my pinned repos below for some of my best work.
 
 ## Tech stack
 <span>
